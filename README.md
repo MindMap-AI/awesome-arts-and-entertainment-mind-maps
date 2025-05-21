@@ -1,4 +1,4 @@
-# Awesome Arts & Entertainment Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Arts & Entertainment Mind Maps](https://mindmapai.app/mind-maps/arts-and-entertainment) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Streamline creative projects in arts &amp; entertainment with project management and mind maps AI to plan productions, track milestones, and organize ideas visually. Mind maps AI fuels artistic expression by helping creators structure narratives, manage workflows, and bring performances to life with clarity and impact.
 
